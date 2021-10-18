@@ -1,0 +1,19 @@
+.light-theme {
+    color: #333333;
+    background-color: #eae9f2;
+}
+
+.dark-theme {
+    color: #f2f2f2;
+    background-color: #17161a;
+}
+
+.button-light{
+background-color: black;
+color: cyan;
+}
+
+.button-dark{
+background-color: cornflowerblue;
+color: #ffff;
+}
